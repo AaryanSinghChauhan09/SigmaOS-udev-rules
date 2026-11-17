@@ -3,7 +3,7 @@ name = "SigmaOS-udev-rules"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "udev-rules component"
+description = "SigmaOS SigmaOS-udev-rules component"
 upstream = []
 
 [contract]
